@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: TFG 2025 Daniel Pérez (Weblog)
+title: UPE 2026 Daniel Pérez (Weblog)
 email:
-description: Memoria por semanas del desarrollo de mi trabajo de fin de grado
+description: Memoria por semanas del desarrollo de mis prácticas en Jderobot
 #twitter_username: username
 github_username: dperezg2021
 minimal_mistakes_skin: dark
